@@ -1,1 +1,1 @@
-[user:Premuim|pwd:Password81923]
+[user:Premuim|pwd:test]
